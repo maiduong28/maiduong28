@@ -1,6 +1,5 @@
 ### Hi there, I'm Mai Dương 👋
--🔭 I’m currently working on University of Information Technology
--🌱 I’m currently learning C++,Python & Japanese 
+- 🌱 I’m currently learning at University of Information Technology
 - 📫 How to reach me: https://www.facebook.com/farcist
 <!--
 **maiduong28/maiduong28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
