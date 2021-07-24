@@ -1,7 +1,8 @@
-#![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "shit")
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "shit")
 
 ### Hi there, I'm Mai Dương 👋
-- 🌱 I’m currently learning at University of Information Technology
+- 🔭 I’m currently working on University of Information Technology
+- 🌱 I’m currently learning programming
 - 📫 How to reach me: https://www.facebook.com/maiduong28/
 
 
