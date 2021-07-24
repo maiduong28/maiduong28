@@ -1,7 +1,9 @@
+#![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "shit")
+
 ### Hi there, I'm Mai Dương 👋
 - 🌱 I’m currently learning at University of Information Technology
 - 📫 How to reach me: https://www.facebook.com/maiduong28/
-![alt text](https://imgur.com/eRejtJZ "Logo Title Text 1")
+
 
 <!--
 **maiduong28/maiduong28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
