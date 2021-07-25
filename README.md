@@ -1,4 +1,6 @@
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "shit")
+![image]({https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white})
+
 
 ### Hi there, I'm Mai Dương 👋
 - 🔭 I’m currently working on University of Information Technology
