@@ -1,9 +1,7 @@
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "shit")
-## Hi there, I'm Mai Dương 👋
-- 🔭 I’m currently working on University of Information Technology
-- 🌱 I’m currently learning programming
+# Hi there, I'm Mai Dương 👋
 
-![Alt Text](https://media.giphy.com/media/JTdf2Ab7eNYvWKJwWv/giphy.gif)
+## ![Alt Text](https://media.giphy.com/media/JTdf2Ab7eNYvWKJwWv/giphy.gif)
 
 
 ###  💬 Contact
