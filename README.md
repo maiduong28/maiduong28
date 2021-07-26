@@ -2,7 +2,7 @@
 ## Hi there, I'm Mai Dương 👋
 - 🔭 I’m currently working on University of Information Technology
 - 🌱 I’m currently learning programming
-![image](https://imgur.com/eRejtJZ)
+![](https://imgur.com/eRejtJZ)
 ###  💬 Contact
 ![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![image](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
