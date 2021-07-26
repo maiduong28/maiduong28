@@ -2,7 +2,8 @@
 ## Hi there, I'm Mai Dương 👋
 - 🔭 I’m currently working on University of Information Technology
 - 🌱 I’m currently learning programming
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+
+![Alt Text](https://media.giphy.com/media/JTdf2Ab7eNYvWKJwWv/giphy.gif)
 
 
 ###  💬 Contact
