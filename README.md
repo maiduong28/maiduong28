@@ -1,5 +1,7 @@
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "shit")
-# Hi there, I'm Mai Dương 👋
+# Hi there, I'm Mai Dương 👋      ✨Welcome to my wall✨
+
+
 
 ## ![Alt Text](https://media.giphy.com/media/JTdf2Ab7eNYvWKJwWv/giphy.gif)
 
@@ -67,11 +69,6 @@
 ![image](https://img.shields.io/badge/Google_Podcasts-4285F4?style=for-the-badge&logo=google-podcasts&logoColor=white)
 ![image](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)
 ![image](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)
-
-✨Welcome to my wall✨
-
-
-
 
 
 <!--
